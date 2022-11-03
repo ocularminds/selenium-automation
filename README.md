@@ -23,6 +23,3 @@ PS C:\agent> .\run.cmd
 
 That's it!
 More Information
-
-AgentPool - Personal access token
-sytafkpuapf4dxaa3xden4xc4bl4smd5q7kniwhyutm2gbdtob7a
