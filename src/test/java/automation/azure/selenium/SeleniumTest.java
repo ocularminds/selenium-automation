@@ -4,7 +4,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class SeleniumTest{
     
-    @Test void testApplsHasAGreeting() {
+    @Test 
+    void testApplsHasAGreeting() {
         String join = "Greeting";
         assertNotNull(join, "app should have a greeting");
     }
