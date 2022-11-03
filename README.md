@@ -5,6 +5,7 @@
 1. Download agent zip file
 2. Create parsonal access token from azure devops user profile. Grand scope 'Agent Pool' with 'read,manage'
 3. Launch Powershell in admin mode
+4. setup ```JAVA_HOME_8_X64``` poiting to the location of Java on the agent system
 4. Run the following command:
 ```shell
 PS C:\> mkdir agent ; cd agent
